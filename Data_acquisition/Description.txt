@@ -1,0 +1,17 @@
+Integrated Data Acquisition System for Vehicle Monitoring
+Role: Embedded Firmware Developer
+Responsibilities & Contributions:
+ Developed a real-time data acquisition and monitoring system using LPC2129 microcontroller with a 16×2
+LCD for displaying continuous sensor data.
+ Interfaced the MCP9700 temperature sensor to measure and monitor temperature accurately.
+ Utilized the on-chip ADC of LPC2129 to read analog input from a potentiometer for system control and
+testing.
+ Implemented an external ADC MCP3204 using the SPI protocol to acquire light intensity data from an LDR
+sensor.
+ Configured UART communication to transmit real-time sensor readings to a serial terminal for monitoring
+and debugging.
+ Integrated DS1307 RTC using the I2C protocol to maintain precise time and date information.
+ Implemented real-time data visualization on a 16×2 LCD with 1-second periodic updates, demonstrating effective timing
+control and peripheral interfacing.
+Tools & Technologies Used: LPC2129 micro controller, MCP 9700 temperature sensor, LDR sensor, MCP3204 external ADC,
+16X2 LCD, DS1307 RTC, Keil µVision, Proteus, Flash Magic.
