@@ -1,0 +1,4 @@
+Student Database Management System
+ Designed and implemented a menu-driven Student Record Management System in C using a singly linked list.
+ Developed features to insert, delete, search, update, and display student records efficiently.
+ Implemented file handling using text files to store and retrieve data permanently.
