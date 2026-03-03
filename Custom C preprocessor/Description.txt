@@ -1,0 +1,5 @@
+Custom C Preprocessor Development:
+ Implemented a custom C preprocessor in C supporting inclusion of header files, macro replacement using
+#define directives and removal of single-line and multi-line comments .
+ Implemented file handling operations to generate a pure preprocessed C file (.i) similar to the GCC
+preprocessing stage.
