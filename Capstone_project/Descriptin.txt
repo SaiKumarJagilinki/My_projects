@@ -1,0 +1,15 @@
+Linux Based Real time Temperature monitoring system with SPI interfaced display:
+Role: Embedded Linux Kernel Developer
+Responsibilities & Contributions:
+ Developed and implemented the DHT11 sensor driver in the Linux kernel space.
+ Integrated sensor functionality with GPIO interrupts, timer interrupts, and workqueues to achieve real-time
+data processing.
+ Implemented interrupt-driven architecture where GPIO interrupt triggers scheduling of workqueue tasks for
+sensor data acquisition and display updates for processing.
+ Interfaced the SPI-based ILI9225 display with the Linux system to visualize real-time temperature and
+humidity data.
+ Implemented and validated SPI communication between the kernel driver and display controller to ensure
+accurate and reliable output.
+ Performed debugging, testing, and performance validation in the Linux kernel environment.
+Tools & Technologies Used: C(Kernel space),Linux Kernel Drivers (GPIO,SPI,Sensor), GPIO Interrupts,
+Workqueues, Timers, DHT11 Sensor, SPI ILI9225 Display,DTS, Makefile,Raspberry Pi.
